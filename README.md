@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I'm **Vishal Gusaiwal**, a passionate software developer always eager to learn and collaborate.
 
-![Profile Views](https://komarev.com/ghpvc/?username=vishalgusaiwal&color=blue&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=vishalgusaiwal&color=blue&style=for-the-badge)
 
 ### 🔭 Current Projects
 - Working on a **Q&A Chatbot** leveraging Generative AI and vector databases.
