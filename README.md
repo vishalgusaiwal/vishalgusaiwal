@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vishal Gusaiwal</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vishalgusaiwal&label=Profile%20views&color=0e75b6&style=flat" alt="vishalgusaiwal" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=name&label=Profile%20views&color=0e75b6&style=flat" alt="vishalgusaiwal" /> </p>
 
 - 🔭 I’m currently working on [Job Application Dashboard](https://github.com/vishalgusaiwal/jobapplicationdashboard.git)
 
